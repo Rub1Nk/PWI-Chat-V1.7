@@ -1,4 +1,4 @@
-Простой онлайн чат на Python с использованием библиотеки PyWebIO.
+## **Простой онлайн чат на Python с использованием библиотеки PyWebIO.**
 
 <img width="1273" height="879" alt="{28316F44-E76E-4D66-9224-8A5D7D6CAABB}" src="https://github.com/user-attachments/assets/7980947a-d2a4-4f30-92e6-ab947426fee3" />
 
